@@ -1,5 +1,5 @@
 # TAD-poster-bibliography
-Esteban, O. (2018). fMRIPrep: a robust preprocessing pipeline for functional MRI. Nat. Methods. 
+Esteban, O. (2018). fMRIPrep: a robust preprocessing pipeline for functional MRI. Nat. Methods./n 
 Friston, K. (2003). Statistical Parametric Mapping. Neuroscience databases.
 Buxton, R. B., Uludag ̆, K., Dubowitz, D. J., & Liu, T. T. (2004). Modeling the hemodynamic response to brain activation. NeuroImage.
 Lindquist, M. A., Meng Loh, J., Atlas, L. Y., & Wager, T. D. (2009). Modeling the hemodynamic response function in fMRI: Efficiency, bias and mis-modeling. NeuroImage.
