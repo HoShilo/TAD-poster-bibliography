@@ -1,4 +1,5 @@
-# TAD-poster-bibliography
+# Predicting chronic PTSD based on early fMRI measures
+## Bibliography
 Esteban, O. (2018). fMRIPrep: a robust preprocessing pipeline for functional MRI. Nat. Methods.<br />
 Friston, K. (2003). Statistical Parametric Mapping. Neuroscience databases.<br />
 Buxton, R. B., Uludag ̆, K., Dubowitz, D. J., & Liu, T. T. (2004). Modeling the hemodynamic response to brain activation. NeuroImage.<br />
